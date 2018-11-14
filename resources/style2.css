@@ -1,0 +1,81 @@
+@media (max-width:450px){
+    .jumbotron h1 {
+    font-size: 35px;
+    }
+}
+
+.jumbotron h1 {
+    font-size: 55px;
+    text-align: center;
+}
+.presentacion {
+    font-size: 24px;
+    text-align: center;
+}
+.cuerpo  {
+  font-size: 20px;
+  background: #E41835;
+}
+body {
+background-attachment: fixed;
+background-image: url("logo.png");
+background-size: 40%;
+background-position: center center;
+}
+td 
+{
+    text-align: center; 
+    vertical-align: middle;
+}
+th
+{
+    text-align: center; 
+    vertical-align: middle;
+}
+.fondo  {
+  background: white;
+  font-family: Frutiger;
+}
+.labelac {
+  display: block;
+  text-align: left;
+  margin: 3px;
+    margin-top: 10px;
+  font-size: 20px;  
+}
+.input-group {
+  margin: 10px 0px 10px 0px;
+}
+.btn2 {
+  padding: 10px;
+   width: 200%;
+margin-top: 20px;
+  font-size: 22px;
+  color: white;
+  background: black;
+  border: none;
+  border-radius: 5px;
+}
+.dropd  {
+display: block;
+width: 100%;
+ margin-top: 10px;
+height: 43px;
+padding: 6px 12px;
+font-size: 17px;
+line-height: 1.42857143;
+color: #555;
+background-color: #fff;
+background-image: none;
+border: 1px solid #ccc;
+}
+.outer-div
+{
+     padding: 30px;
+     text-align: center;
+}
+.inner-div
+{
+     display: inline-block;
+     padding: 50px;
+}
